@@ -1,7 +1,7 @@
 ## TimeSeries forecasting using ARIMA model and Retrieval-based Chatbot
 
 
-This repo contains two projects 
+This repo contains two projects (same Jupyter notebook)
 
 (1) A time-series influenza cases forecasting using ARIMA/sARIMA model </br>
 (2) A retrievel-based chatbot using IBM Watson Natural Language Understanding API. 
