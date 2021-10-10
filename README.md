@@ -18,14 +18,14 @@ This is a sample of work, I undertook to predict influenza cases in the future s
 <img src = "ILI.PNG" "ILI.PNG" width = "900" height = "450">
 </p>
 
-______
+_____________
 
 Given the nature of this role, I decided to build a retrieval-based chatbot using IBM Watson's NLP resources. Disclaimer: I had never used Watson Assistant or NLU resources, but it was a good learning curve. I did not realise how well equipped it's platform was already established. </br>
 
 This process involved created an IBM cloud account https://cloud.ibm.com/login?state=%2Faccount%2Fbest-practices&sessionExpired=true then starting a free version of Watson NLU. I, then received all the API keys necessary. I was able to download a JSON file with queries. I trained a neural network on the corpus with ReLU activation. Accuracy was nearing 72% and loss nearly down to 1, this was expected given the corpus size limitation. Having that said there is no mathematical relationship between accuracy and loss metrics so I took that as a grain of salt. [2]
 
 
-****
+- - - - - - -
 
 References:
 
