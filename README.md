@@ -15,5 +15,7 @@ This is a sample of work, I undertook to predict influenza cases in the future s
 
 <br>
 <p align="center">
-<img src = "ILI.png" "ILI.png" width = "900" height = "400">
+<img src = "ILI.PNG" "ILI.PNG" width = "900" height = "450">
 </p>
+
+
